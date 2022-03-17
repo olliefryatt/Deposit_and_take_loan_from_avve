@@ -1,0 +1,15 @@
+
+Note to work with Avve in this instance we don't need to deploy any smart contracts. These are already on chain. 
+
+Exercise
+
+2. Swap ETH of WETH
+1. Deposit ETH in Aave
+2. Borrow some asset eith ETH Collateral
+3. Repay this back`
+
+Testing
+
+Integration: Kovan
+Unit-tests: Mainnet-fork
+
